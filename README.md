@@ -30,20 +30,17 @@
 
 1. [Flask 高并发部署方案](python/misc/Flask高并发部署方案)
 2. [巧用 Python 实现专属定制二维码](python/misc/巧用Python实现专属定制二维码)
-3. [Python实现Zip文件的暴力破解](python/misc/Python实现Zip文件的暴力破解)
+3. [Python 实现 Zip 文件的暴力破解](python/misc/Python实现Zip文件的暴力破解)
 4. [手把手教你用 50 行代码实现智能聊天机器人](python/misc/手把手教你用50行代码，实现智能聊天机器人)
-5. [Python解析JSON详解](python/misc/Python解析JSON详解)
+5. [Python 解析 JSON 详解](python/misc/Python解析JSON详解)
 
 ## Java
 
-### JVM
+### 基础知识
 
 1. [深入浅出 JVM]()
 2. [你不得不了解的 JVM](java/jvm/你不得不了解的JVM)
-
-### 并发
-
-1. [《吐血总结》-线程同步与锁](java/concurrent/线程同步与锁)
+3. [《吐血总结》-线程同步与锁](java/concurrent/线程同步与锁)
 
 ## 数据库
 
@@ -79,15 +76,16 @@
 1. [Angular5 API 发起 HTTP 几种请求方式](misc/Angular5API发起HTTP请求方式)
 2. [记百万级数据实现秒级导入的优化过程](misc/记优化百万级数据实现秒级导入)
 3. [玩转 Git，看这一篇就够了](misc/玩转Git，看这一篇就够了)
-4. [不要使用kill-9](misc/不要使用kill-9)
-5. [Activity转成Class](misc/Activity转成Class)
-6. [如何优雅的“叫”服务——Service总结](misc/android-service)
-7. [Android常见错误解决](misc/AndroidError)
+4. [不要使用 kill-9](misc/不要使用kill-9)
+5. [Activity 转成 Class](misc/Activity转成Class)
+6. [如何优雅的“叫”服务——Service 总结](misc/android-service)
+7. [Android 常见错误解决](misc/AndroidError)
 8. [一句话木马上传常见的几种方法](misc/一句话木马上传常见的几种方法)
-9. [SharedPreferences使用](misc/SharedPreferences使用)
+9. [SharedPreferences 使用](misc/SharedPreferences使用)
 10. [Visual code For Mac 快捷键](misc/Visual-code-For-Mac-快捷键)
-11. [Git服务器搭建并自动部署Hexo到云主机与Github](misc/HexoSyncGit)
-12. [解决nginx使用proxy_pass反向代理时,session丢失的问题](misc/nginx使用反向代理丢失session)
+11. [Git 服务器搭建并自动部署 Hexo 到云主机与 Github](misc/HexoSyncGit)
+12. [解决 nginx 使用 proxy_pass 反向代理时,session 丢失的问题](misc/nginx使用反向代理丢失session)
+13. [Docker 从入门到放弃](misc/docker入门)
 
 ## 架构设计
 
@@ -95,8 +93,6 @@
 
 1. [服务端并发分布式架构演进之路](micro-service/服务端高并发分布式架构演进之路)
 2. [一篇文章搞懂 SpringCloud 微服务架构](micro-service/一篇文章搞懂SpringCloud微服务架构)
-
-
 
 ## 公众号
 
