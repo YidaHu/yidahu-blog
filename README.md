@@ -41,6 +41,7 @@
 1. [深入浅出 JVM]()
 2. [你不得不了解的 JVM](java/jvm/你不得不了解的JVM)
 3. [《吐血总结》-线程同步与锁](java/concurrent/线程同步与锁)
+4. [volatile 面试必问](java/concurrent/volatile面试必问)
 
 ## 数据库
 
