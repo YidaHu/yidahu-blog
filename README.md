@@ -49,12 +49,13 @@
 2. [SpringBoot 项目使用 JPA](springboot/SpringBoot项目使用JPA)
 3. [SpringBoot 项目通过 Mybatis 实现 CRUD](springboot/SpringBoot项目通过Mybatis实现CRUD)
 4. [SpringBoot 项目和 Mybatis 实现多数据源配置](springboot/SpringBoot项目和Mybatis实现多数据源配置)
-5. [SpringBoot 项目封装 redis 操作]()
-6. [SpringBoot 项目整合 redisson 实现分布式锁]()
-7. [SpringBoot 项目实现 Zookeeper 实现分布式锁]()
-8. [SpringBoot 项目整合 MongoDB]()
-9. [SpringBoot 项目封装 redis 操作]()
-10. [SpringBoot 项目使用 ElasticSearch]()
+5. [SpringBoot 项目整合 Redis 封装工具类](springboot/SpringBoot项目项目整合Redis封装工具类)
+6. [SpringBoot 多项目实现 RocketMQ 生产消费](springboot/SpringBoot多项目实现RocketMQ生产消费)
+7. [SpringBoot 项目整合 redisson 实现分布式锁]()
+8. [SpringBoot 项目实现 Zookeeper 实现分布式锁]()
+9. [SpringBoot 项目整合 MongoDB]()
+10. [SpringBoot 项目封装 redis 操作]()
+11. [SpringBoot 项目使用 ElasticSearch]()
 
 ## 数据库
 
