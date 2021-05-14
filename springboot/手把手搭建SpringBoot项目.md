@@ -120,7 +120,7 @@ public @interface SpringBootConfiguration {
 
 @RestController 是 Spring 4 之后新加的注解，如果在 Spring4 之前开发 RESTful Web 服务的话，你需要使用@Controller 并结合@ResponseBody 注解，也就是说@Controller +@ResponseBody= @RestController。对于这两个注解，我在基础篇单独抽了一篇文章来介绍。
 
-`com.yidahu.springbootproj.controller`
+`com.yidahu.springbootbase.controller`
 
 ```java
 @RestController

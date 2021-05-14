@@ -24,23 +24,35 @@ CREATE TABLE `user` (
 ```xml
 <dependencies>
     <dependency>
-        <groupId>org.springframework.boot<groupId>
-        <artifactId>spring-boot-starter-web<artifactId>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-web</artifactId>
     </dependency>
+
     <dependency>
-        <groupId>org.mybatis.spring.boot<groupId>
-        <artifactId>mybatis-spring-boot-starter<artifactId>
-        <version>1.3.2</version>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-test</artifactId>
+        <scope>test</scope>
     </dependency>
     <dependency>
         <groupId>mysql</groupId>
-        <artifactId>mysql-connector-java<artifactId>
+        <artifactId>mysql-connector-java</artifactId>
         <scope>runtime</scope>
     </dependency>
     <dependency>
-        <groupId>org.springframework.boot<groupId>
-        <artifactId>spring-boot-starter-test<artifactId>
-        <scope>test</scope>
+        <groupId>org.projectlombok</groupId>
+        <artifactId>lombok</artifactId>
+        <optional>true</optional>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson-->
+    <dependency>
+        <groupId>com.alibaba</groupId>
+        <artifactId>fastjson</artifactId>
+        <version>1.2.73</version>
+    </dependency>
+    <dependency>
+        <groupId>org.mybatis.spring.boot</groupId>
+        <artifactId>mybatis-spring-boot-starter</artifactId>
+        <version>1.3.2</version>
     </dependency>
 </dependencies>
 ```
@@ -251,9 +263,9 @@ User findUserByNameFromMapper(String name);
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
-<mapper namespace="com.yidahu.springbootproj.dao.UserDao">
+<mapper namespace="com.example.springbootmybatis.dao.UserDao">
 
-    <select id="findUserByNameFromMapper" parameterType="String" resultType="com.yidahu.springbootproj.domain.User">
+    <select id="findUserByNameFromMapper" parameterType="String" resultType="com.example.springbootmybatis.domain.User">
         SELECT * FROM user WHERE name = #{name}
     </select>
 </mapper>
