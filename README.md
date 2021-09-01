@@ -67,7 +67,7 @@
 ### 消息队列
 
 1. [【大话消息队列】该如何选择消息队列](db/mq/该如何选择消息队列)
-2. [SpringBoot 应用中优雅的使用 RabbitMQ](db/mq/SpringBoot应用中优雅的使用RabbitMQ)
+2. [SpringBoot 应用中优雅的使用 RabbitMQ](db/mq/SpringBoot优雅的使用RabbitMQ)
 3. [Rocket主从服务搭建](db/mq/Rocket主从服务搭建)
 
 ### Redis
