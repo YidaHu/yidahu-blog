@@ -125,6 +125,7 @@
 ## 经验之谈
 
 1. [BBEdit格式化json配置](misc/BBEdit格式化json配置)
+2. [Sourcetree外部差异⽐对⼯具为BeyondCompare](misc/Sourcetree外部差异⽐对⼯具为BeyondCompare)
 
 ## 公众号
 
