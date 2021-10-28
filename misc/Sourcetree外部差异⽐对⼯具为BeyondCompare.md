@@ -2,7 +2,7 @@
 
 
 
-1、⾸先，安装好beyond compare后，创建⼀个快捷⽅式
+1、⾸先，安装好beyond compare后，创建⼀个快捷⽅式，然后输入以下命令
 
 ```sh
 ln -s /Applications/Beyond\ Compare.app/Contents/MacOS/bcomp /usr/local/bin/
