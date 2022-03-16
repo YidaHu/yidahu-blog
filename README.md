@@ -116,6 +116,7 @@
 11. [Git 服务器搭建并自动部署 Hexo 到云主机与 Github](misc/HexoSyncGit)
 12. [解决 nginx 使用 proxy_pass 反向代理时,session 丢失的问题](misc/nginx使用反向代理丢失session)
 13. [Docker 从入门到放弃](misc/docker入门)
+14. [Iterm2中ssh保持连接不断开](misc/Iterm2中ssh保持连接不断开)
 
 ## 架构设计
 
