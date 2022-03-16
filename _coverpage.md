@@ -2,5 +2,5 @@
 
 > YidaHu 个人博客
 
-[GitHub](https://github.com/huyida)
+[GitHub](https://github.com/YidaHu)
 [Get Started](?id=前言)
