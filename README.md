@@ -86,7 +86,7 @@
 ### K8s
 
 1. [Kubernetes的前世今生](Kubernetes/Kubernetes的前世今生)
-2. [Kubernetes集群搭建（待整理）](Kubernetes/Kubernetes集群搭建)
+2. [Kubernetes集群搭建工具](Kubernetes/Kubernetes集群搭建工具)
 
 ## 人工智能
 
