@@ -89,8 +89,11 @@
 2. [Kubernetes集群搭建工具](Kubernetes/Kubernetes集群搭建工具)
 3. [手把手搭建Kubernetes集群](Kubernetes/手把手搭建Kubernetes集群)
 4. [Kubernetes dashboard搭建](Kubernetes/Kubernetes-dashboard搭建)
+5. [kubectl常用命令](Kubernetes/kubectl常用命令)
 
 ## 人工智能
+
+
 
 ### 机器学习
 
