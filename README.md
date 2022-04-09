@@ -87,6 +87,7 @@
 
 1. [Kubernetes的前世今生](Kubernetes/Kubernetes的前世今生)
 2. [Kubernetes集群搭建工具](Kubernetes/Kubernetes集群搭建工具)
+3. [手把手搭建Kubernetes集群](Kubernetes/手把手搭建Kubernetes集群)
 
 ## 人工智能
 
