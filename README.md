@@ -81,13 +81,14 @@
 
 1. [利用 Redis 做消息队列实现生产消费和发布订阅](db/redis/利用Redis做消息队列实现生产消费和发布订阅)
 
-## 集群
+## 云原生
 
-### K8s
+### Kubernetes
 
 1. [Kubernetes的前世今生](Kubernetes/Kubernetes的前世今生)
 2. [Kubernetes集群搭建工具](Kubernetes/Kubernetes集群搭建工具)
 3. [手把手搭建Kubernetes集群](Kubernetes/手把手搭建Kubernetes集群)
+4. [Kubernetes dashboard搭建](Kubernetes/Kubernetes-dashboard搭建)
 
 ## 人工智能
 
